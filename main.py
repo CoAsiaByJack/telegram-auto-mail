@@ -111,4 +111,4 @@ elif enter == "2":
 elif enter == "3":
     forwarder.joingroup()
 else:
-    print("ERROR, choice a valid option bro!")
+    print("ERROR, choose a valid option bro!")
